@@ -6,7 +6,7 @@ C.-Al poner un numero negativo,por ejemplo yo use el -5, la tabla mostro todas l
 Ejercicio 2:
 Al agregar al codigo la funcion unlist, el programa extrae el número como vector de la lista en la posicion que se haya hecho la busqueda, porque considera la lista, ya no considera la lista como un tren con varios vagones. En el momento de agregar el if sin unlist, se nos presenta un error debido que el numero es no binario porque se extrae . Al agregar el unlist, si puede cumplir la condicion puesta por el if, esto sucede porque no le sumas 1 a un vagon sino a la persona que se presentacomo un numero no binario.
 Ejercicio 3:
-Hace que cambie el numero de la posicion que elegiste, en este ejerciocio el 1 de la lista de numeros paso a sr 12
+Hace que cambie el numero de la posicion que elegiste, en este ejerciocio el 1 de la lista de numeros paso a ser 12
 Ejercicio 4:
 Cuando usamos el primer termino el R no lo encuentra,pero si usamos el segundo nos dara la cantidad de numeros que tiene la lista (11)
 Ejercicio 5:
@@ -25,5 +25,5 @@ Ejercicio 10:
 El programa establece una nueva orden que sería generar un ejercicio matematico simple, asignando el nombre correspondiente para que asuma que ese es la acccion a seguir. Se genera un codigo especifico, para una operacion simple.
 Ejercicio 11:
 Hace que provoque una orden al programa para que genere un ejercicio, se aprovecha la funcion abs para que pueda asignar un valor absoluto y poder generar la ecuacion en relacion de las variables agregadas a la orden del codigo.
-ejercicio opcional:
-la funcion loop revisa continuamente si existe o no algún dato agregado, provocando un bucle en el cual va a seguir revisando constantemente si existe algo más que extraer, en este caso, la lista de numeros que se guardó previamente
+Ejercicio opcional:
+La funcion loop revisa continuamente si existe o no algún dato agregado, provocando un bucle en el cual va a seguir revisando constantemente si existe algo más que extraer, en este caso, la lista de numeros que se guardó previamente
